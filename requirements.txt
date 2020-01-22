@@ -1,0 +1,8 @@
+boto3
+regex
+sacremoses
+spacy
+numpy
+scipy
+scikit-learn
+nltk
