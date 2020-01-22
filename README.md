@@ -13,7 +13,9 @@ Evaluation code for SAE-large on [HotpotQA leaderboad](https://hotpotqa.github.i
 
 2. Install the requirements
 
-3. Download [pretrained models](https://drive.google.com/open?id=1Eqgi0SYB9XRHkuMyjFpeYI_MWZ7GCNTt). Put zip file into the same folder with `main.py`, and unzip it.
+3. `python -m spacy download en_core_web_sm`
+
+4. Download [pretrained models](https://drive.google.com/open?id=1Eqgi0SYB9XRHkuMyjFpeYI_MWZ7GCNTt). Put zip file into the same folder with `main.py`, and unzip it.
 
 ## Running
 ```
