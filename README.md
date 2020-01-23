@@ -24,7 +24,7 @@ Create a directory `output` in the same folder with `main.py` and then run
 python main.py input_file
 ```
 
-`input_file` can be Hotpot dev file or other data sets organized in the same format with HotpotQA.
+`input_file` can be HotpotQA dev file or other data sets organized in the same format with HotpotQA.
 
 By default, the code uses the 0th GPU but you can change it the `main.py`.
 
