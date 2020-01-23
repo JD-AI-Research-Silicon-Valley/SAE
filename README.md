@@ -28,6 +28,8 @@ python main.py input_file
 
 By default, the code uses the 0th GPU but you can change it the `main.py`.
 
+The final prediction `pred.json` will be in the `output` folder.
+
 ## Citation
 ```
 @inproceedings{tu2020sae,
